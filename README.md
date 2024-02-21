@@ -6,4 +6,4 @@ c++ x.cpp -L. -l:libraknet.a -o b
 ```
 
 ## Dependencies  
-- libraknet compiled, `.a` in repo root
+- libraknet compiled   https://github.com/PerikiyoXD/ezraknet   , `.a` in repo root
